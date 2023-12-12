@@ -36,7 +36,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
-![EXP 1](https://github.com/mades2112/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/152461996/ecb0156c-933d-4744-8be0-f3d602e140e6)
+![5 1](https://github.com/mades2112/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/152461996/2d73b3eb-a620-49c3-90c9-e61c964ee5a8)
 
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
